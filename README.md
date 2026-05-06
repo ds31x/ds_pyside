@@ -1,2 +1,2 @@
-\# Git Hub Repository for PySide6 Practice
+# Git Hub Repository for PySide6 Practice
 
